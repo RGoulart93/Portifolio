@@ -18,7 +18,6 @@ Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado 
     
 # Resumo Pessoal
 > Operador de Produção na Johnson Controls Hitachi | Estudante de Gestão da Produção Industrial na FATEC SJC.
-> Colocar uma foto.
 <p style="text-align:center">
     <img src="https://github.com/AndreLuizRibeiro/Portifolio/blob/main/2%C2%B0%20Sem/imagem/imagens.png" width= "100%">
 </p>
