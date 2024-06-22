@@ -86,7 +86,7 @@ Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado 
 
 ---
 <a name="projeto-2"></a>
-## 2º Semestre • "semestre/ano" • "Strategy - Promarking"
+## 2º Semestre • "1º semestre/2023" • "Strategy - Promarking"
 > Descrever aqui um resumo do projeto.
 
 ### Requisitos do Projeto
@@ -146,7 +146,7 @@ Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado 
 
 ---
 <a name="projeto-3"></a>
-## 3º Semestre • "semestre/ano" • "Nome do projeto"
+## 3º Semestre • "2º semestre/2023" • "Stronger Solutions - Maria e Maria café colonial"
 > Descrever aqui um resumo do projeto.
 
 ### Requisitos do Projeto
@@ -203,7 +203,7 @@ Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado 
 
 ---
 <a name="projeto-4"></a>
-## 4º Semestre • "semestre/ano" • "Nome do projeto"
+## 4º Semestre • "1º semestre/2024" • "Stronger Solutions - Freudenberg"
 > Descrever aqui um resumo do projeto.
 
 ### Requisitos do Projeto
