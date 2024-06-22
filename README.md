@@ -6,10 +6,10 @@ Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado 
 
 - ### [Resumo Pessoal](#resumo-pessoal)
 - ### [Projetos](#projetos)
-    - [1º Semestre • 1sem/2023 • "Nome do projeto"](#projeto-1)
-    - [2º Semestre • 1sem/2023 • "Nome do projeto"](#projeto-2) 
-    - [3º Semestre • 2sem/2023 • "Nome do projeto"](#projeto-3) 
-    - [4º Semestre • 1sem/2024 • "Nome do projeto"](#projeto-4) 
+    - [1º Semestre • 1sem/2023 • "Creative Solutions - Parque Sempre Alegre"](#projeto-1)
+    - [2º Semestre • 1sem/2023 • "Strategy - Promarking"](#projeto-2) 
+    - [3º Semestre • 2sem/2023 • "Stronger Solutions - Maria e Maria café colonial"](#projeto-3) 
+    - [4º Semestre • 1sem/2024 • "Stronger Solutions - Freudenberg"](#projeto-4) 
     - [5º Semestre • "semestre/ano" • "Nome do projeto"](#projeto-5) 
     - [6º Semestre • "semestre/ano" • "Nome do projeto"](#projeto-6)
     - [Trabalho de Gradução - "Projeto escolhido"]() 
@@ -86,7 +86,7 @@ Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado 
 
 ---
 <a name="projeto-2"></a>
-## 2º Semestre • "semestre/ano" • "Nome do projeto"
+## 2º Semestre • "semestre/ano" • "Strategy - Promarking"
 > Descrever aqui um resumo do projeto.
 
 ### Requisitos do Projeto
