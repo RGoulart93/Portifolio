@@ -27,13 +27,10 @@ Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado 
 
 <a name="projeto-1"></a>  <!-- comando para criar uma ancora para o sumário -->
 ## 1º Semestre • "1º semestre/2023" • "Creative Solutions - Parque Sempre Alegre" 
-> Trabalho de API para resolução de problemas do cliente Parque Sempre Alegre (Fictício).
-
-### Requisitos do Projeto
-> Descrever aqui os requisitos exigidos para a conclusão do projeto.
+> Este trabalho teve como objetivo auxiliar a empresa com os desafios encontrados no gerenciamento do parque, com sua organização e controle. Apresentando ferramentas e maneiras mais ageis para administrar a empresa.
 
 ### Solução
-> Descrever aqui as soluções propostas no projeto.
+> Aplicação da Curva ABC, Desenvolvimento de um Layout Estratégico para o Estoque, Equipe e Metodologia.
 <p style="text-align:center">
     <img src="https://github.com/AndreLuizRibeiro/Portifolio/blob/main/Resumo/imagem/video.png" width= "100%">
 </p>
