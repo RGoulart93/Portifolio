@@ -26,8 +26,8 @@ Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado 
 # Projetos
 
 <a name="projeto-1"></a>  <!-- comando para criar uma ancora para o sumário -->
-## 1º Semestre • "semestre/ano" • "Nome do projeto" 
-> Descrever aqui um resumo do projeto.
+## 1º Semestre • "1º semestre/2023" • "Creative Solutions - Parque Sempre Alegre" 
+> Trabalho de API para resolução de problemas do cliente Parque Sempre Alegre (Fictício).
 
 ### Requisitos do Projeto
 > Descrever aqui os requisitos exigidos para a conclusão do projeto.
