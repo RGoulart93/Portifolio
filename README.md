@@ -6,10 +6,10 @@ Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado 
 
 - ### [Resumo Pessoal](#resumo-pessoal)
 - ### [Projetos](#projetos)
-    - [1º Semestre • 1sem/2023 • "Creative Solutions - Parque Sempre Alegre"](#projeto-1)
-    - [2º Semestre • 1sem/2023 • "Strategy - Promarking"](#projeto-2) 
-    - [3º Semestre • 2sem/2023 • "Stronger Solutions - Maria e Maria café colonial"](#projeto-3) 
-    - [4º Semestre • 1sem/2024 • "Stronger Solutions - Freudenberg"](#projeto-4) 
+    - [1º Semestre • 1sem/2023 • "Creative Solutions"](#projeto-1)
+    - [2º Semestre • 1sem/2023 • "Strategy"](#projeto-2) 
+    - [3º Semestre • 2sem/2023 • "Stronger Solutions"](#projeto-3) 
+    - [4º Semestre • 1sem/2024 • "Stronger Solutions"](#projeto-4) 
     - [5º Semestre • "semestre/ano" • "Nome do projeto"](#projeto-5) 
     - [6º Semestre • "semestre/ano" • "Nome do projeto"](#projeto-6)
     - [Trabalho de Gradução - "Projeto escolhido"]() 
@@ -26,7 +26,7 @@ Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado 
 # Projetos
 
 <a name="projeto-1"></a>  <!-- comando para criar uma ancora para o sumário -->
-## 1º Projeto • "1º semestre/2023" • "Creative Solutions - Parque Sempre Alegre" 
+## 1º Projeto • "1º semestre/2023" • "Creative Solutions" 
 > Este trabalho teve como objetivo auxiliar a empresa com os desafios encontrados no gerenciamento do parque, com sua organização e controle. Apresentando ferramentas e maneiras mais ageis para administrar a empresa.
 
 ### Solução
@@ -83,7 +83,7 @@ Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado 
 
 ---
 <a name="projeto-2"></a>
-## 2º Projeto • "1º semestre/2023" • "Strategy - Promarking"
+## 2º Projeto • "1º semestre/2023" • "Strategy"
 > Descrever aqui um resumo do projeto.
 
 ### Requisitos do Projeto
@@ -143,7 +143,7 @@ Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado 
 
 ---
 <a name="projeto-3"></a>
-## 3º Projeto • "2º semestre/2023" • "Stronger Solutions - Maria e Maria café colonial"
+## 3º Projeto • "2º semestre/2023" • "Stronger Solutions"
 > Descrever aqui um resumo do projeto.
 
 ### Requisitos do Projeto
@@ -216,7 +216,14 @@ Durante a consultoria para a empresa, focamos em otimizar o Planejamento, Progra
 > Descrever aqui os resultados obtidos neste projeto.
 
 ### Tecnológias Utilizadas
-> Descrever aqui as ferramentas utilizadas no projeto.
+ - Excel
+ - Word
+ - Miro
+ - Github
+ - Movie maker
+ - Sketchup
+ - Canva
+ - Google Meet
 
 ### Contribições pessoais
 > Descrever aqui as suas contribuições para esse projeto.
@@ -230,12 +237,14 @@ Durante a consultoria para a empresa, focamos em otimizar o Planejamento, Progra
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Excel | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Word | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Scrum | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Sketchup | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★★ ★ ★ |
+| Movie maker | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Canva | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Miro | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
  
 </details>
 
@@ -245,12 +254,12 @@ Durante a consultoria para a empresa, focamos em otimizar o Planejamento, Progra
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Proatividade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Trabalho em equipe | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Pontualidade | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Criatividade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Comunicação | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 </details>
 
 [Voltar ao Inicio](#sumário)
