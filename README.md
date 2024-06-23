@@ -26,7 +26,7 @@ Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado 
 # Projetos
 
 <a name="projeto-1"></a>  <!-- comando para criar uma ancora para o sumário -->
-## 1º Semestre • "1º semestre/2023" • "Creative Solutions - Parque Sempre Alegre" 
+## 1º Projeto • "1º semestre/2023" • "Creative Solutions - Parque Sempre Alegre" 
 > Este trabalho teve como objetivo auxiliar a empresa com os desafios encontrados no gerenciamento do parque, com sua organização e controle. Apresentando ferramentas e maneiras mais ageis para administrar a empresa.
 
 ### Solução
@@ -83,7 +83,7 @@ Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado 
 
 ---
 <a name="projeto-2"></a>
-## 2º Semestre • "1º semestre/2023" • "Strategy - Promarking"
+## 2º Projeto • "1º semestre/2023" • "Strategy - Promarking"
 > Descrever aqui um resumo do projeto.
 
 ### Requisitos do Projeto
@@ -143,7 +143,7 @@ Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado 
 
 ---
 <a name="projeto-3"></a>
-## 3º Semestre • "2º semestre/2023" • "Stronger Solutions - Maria e Maria café colonial"
+## 3º Projeto • "2º semestre/2023" • "Stronger Solutions - Maria e Maria café colonial"
 > Descrever aqui um resumo do projeto.
 
 ### Requisitos do Projeto
@@ -200,8 +200,8 @@ Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado 
 
 ---
 <a name="projeto-4"></a>
-## 4º Semestre • "1º semestre/2024" • "Stronger Solutions - Freudenberg"
-> Descrever aqui um resumo do projeto.
+## 4º Projeto • "1º semestre/2024" • "Stronger Solutions"
+Durante a consultoria para a empresa, focamos em otimizar o Planejamento, Programação e Controle da Produção (PPCP). Utilizamos metodologias ágeis e ferramentas avançadas, como VSM e BPMN, para mapear processos, definir KPIs, redesenhar layouts, introduzir práticas de manufatura aditiva e reciclagem interna. Essas iniciativas visam aumentar a eficiência operacional, reduzir custos e alinhar a capacidade de produção com a demanda do mercado, melhorando assim a satisfação dos clientes.
 
 ### Requisitos do Projeto
 >Descrever aqui os requisitos exigidos para a conclusão do projeto.
@@ -257,7 +257,7 @@ Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado 
 
 ---
 <a name="projeto-5"></a>
-## 5º Semestre • "semestre/ano" • "Nome do projeto"
+## 5º Projeto • "semestre/ano" • "Nome do projeto"
 > Descrever aqui um resumo do projeto.
 
 ### Requisitos do Projeto
@@ -314,7 +314,7 @@ Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado 
 
 ---
 <a name="projeto-6"></a>
-## 6º Semestre • "semestre/ano" • "Nome do projeto"
+## 6º Projeto • "semestre/ano" • "Nome do projeto"
 > Descrever aqui um resumo do projeto.
 
 ### Requisitos do Projeto
